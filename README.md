@@ -55,33 +55,69 @@ My goal is to become a professional Software Engineer by developing strong techn
 
 ---
 
-## 📚 Currently Learning
 
-**🌐 Full Stack Development**
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+  <i>Exploring technologies, strengthening fundamentals, and continuously growing as a software engineer.</i>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>01. 🌐 Full Stack Development</h3>
 
 React, Components, Hooks and Frontend Development.
 
-**🤖 Machine Learning**
+</td>
+<td width="50%" valign="top">
+
+<h3>02. 🤖 Machine Learning</h3>
 
 Machine Learning Fundamentals, Linear Regression, Least Squares and Gradient Descent.
 
-**🐍 Python & Data Science**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. 🐍 Python & Data Science</h3>
 
 Python Programming, NumPy and Practical Exercises.
 
-**⚙️ Backend Development**
+</td>
+<td width="50%" valign="top">
+
+<h3>04. ⚙️ Backend Development</h3>
 
 Preparing to learn Node.js and Server-side Development.
 
-**💾 Database Systems**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>05. 💾 Database Systems</h3>
 
 SQL Queries and Database Management.
 
-**🧠 Software Engineering**
+</td>
+<td width="50%" valign="top">
+
+<h3>06. 🧠 Software Engineering</h3>
 
 Software Design Principles and Problem Solving.
 
+</td>
+</tr>
+</table>
 
+<p align="center">
+  <i>Learn continuously. Improve consistently. Build confidently.</i>
+</p>
 
 
 ## 📊 GitHub Analytics
