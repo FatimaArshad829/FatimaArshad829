@@ -1,112 +1,139 @@
 
 <div align="center">
 
-# Fatima Arshad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Fatima%20Arshad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%7C%20Machine%20Learning&descSize=14&descAlignY=55" width="100%" />
 
-### Software Engineering Student | Aspiring Full Stack Software Engineer
-
-*Building strong foundations in software development and exploring Machine Learning.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FatimaArshad829)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-arshad-07536b3b3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fatimashk829@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Full+Stack+Developer;Learning+Machine+Learning;Growing+Through+Technology" />
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I am a BS Software Engineering student with an interest in software development, web technologies, and intelligent computing.
-
-Currently, I am focusing on strengthening my programming skills, learning Full Stack Development, and studying Machine Learning.
+Hello! I'm **Fatima Arshad**, a BS Software Engineering student interested in software development, web technologies, and intelligent computing.
 
 - 🎓 BS Software Engineering — 5th Semester
 - 💻 Aspiring Full Stack Software Engineer
-- 🌐 Interested in Frontend and Backend Development
+- 🌐 Interested in modern web development
 - 🤖 Currently studying Machine Learning
-- 🐍 Working with Python and programming fundamentals
-- 📚 Passionate about continuous learning and problem-solving
+- 🐍 Exploring Python and Machine Learning concepts
+- 📚 Focused on improving programming and problem-solving skills
+
+My goal is to become a professional Software Engineer by developing strong technical foundations and continuously learning modern technologies.
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Programming Languages**
+### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
 
-**Frontend Development**
+### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-**Database**
+### 🤖 Machine Learning & Data Science
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,jupyter" />
+</p>
 
-**Tools & Development Environment**
+- Machine Learning Fundamentals
+- Linear Regression
+- Least Squares Method
+- Gradient Descent
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL
+- Database Management
+
+### ⚙️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
 
 ---
 
-## Currently Learning
-
-| Learning Area | Current Focus |
-|---|---|
-| Full Stack Development | React and frontend development |
-| Backend Development | Preparing to learn Node.js |
-| Machine Learning | Core concepts and algorithms |
-| Linear Regression | Least Squares and Gradient Descent |
-| Python | Programming and practical exercises |
-| Software Engineering | Design principles and problem-solving |
-
----
-
-## GitHub Statistics
+## 📚 Currently Learning
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FatimaArshad829&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+| Learning Area | Topics & Focus |
+|:---|:---|
+| 🌐 Full Stack Development | React, Components, Hooks and Frontend Development |
+| ⚙️ Backend Development | Preparing for Node.js and Server-side Development |
+| 🤖 Machine Learning | Algorithms, Model Fundamentals and Applications |
+| 📈 Linear Regression | Least Squares Method and Gradient Descent |
+| 🐍 Python | Programming, NumPy and Practical Exercises |
+| 💾 Database Systems | SQL Queries and Database Management |
+| 🧠 Software Engineering | Software Design and Problem Solving |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaArshad829&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/FatimaArshad829">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FatimaArshad829&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/FatimaArshad829">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaArshad829&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</a>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=FatimaArshad829&theme=github-dark-blue&hide_border=true" />
+<img width="85%" src="https://streak-stats.demolab.com?user=FatimaArshad829&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaArshad829&theme=github-compact&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaArshad829&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## Career Objective
+## 🎯 Career Goals
 
-My goal is to become a skilled Full Stack Software Engineer with a strong understanding of software development and Machine Learning.
-
-I aim to strengthen my technical skills, work on practical projects, and gain professional experience through internships and collaborative development.
+- Become a professional Full Stack Software Engineer.
+- Develop strong backend and frontend development skills.
+- Strengthen my Machine Learning knowledge.
+- Improve programming and problem-solving abilities.
+- Gain practical experience through internships.
+- Continuously learn modern software technologies.
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimashk829@gmail.com)
+<a href="mailto:fatimashk829@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-arshad-07536b3b3/)
+<a href="https://www.linkedin.com/in/fatima-arshad-07536b3b3/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatimaArshad829)
+<a href="https://github.com/FatimaArshad829">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -114,9 +141,12 @@ I aim to strengthen my technical skills, work on practical projects, and gain pr
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Growing professionally.*
+**Learning Continuously | Improving Every Day**
+
+Thanks for visiting my GitHub profile!
 
 </div>
+
 
 
 
