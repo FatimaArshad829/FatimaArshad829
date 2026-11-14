@@ -88,9 +88,6 @@ My goal is to become a professional Software Engineer by developing strong techn
 
 ## 🌐 Connect With Me
 
-
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="mailto:fatimashk829@gmail.com">
