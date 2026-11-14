@@ -23,47 +23,18 @@ My goal is to become a professional Software Engineer by developing strong techn
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+| Category | Technologies |
+|:--|:--|
+| **Programming** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white) |
+| **Machine Learning** | Python, Jupyter Notebook, ML Fundamentals |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) |
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
 
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,jupyter" />
-</p>
-
-- Machine Learning Fundamentals
-- Linear Regression
-- Least Squares Method
-- Gradient Descent
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- SQL
-- Database Management
-
-### ⚙️ Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -83,29 +54,26 @@ My goal is to become a professional Software Engineer by developing strong techn
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/FatimaArshad829">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FatimaArshad829&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=FatimaArshad829&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/FatimaArshad829">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaArshad829&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FatimaArshad829&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </a>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=FatimaArshad829&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaArshad829&theme=github-compact&hide_border=true&area=true" />
+<img width="85%" src="https://streak-stats.demolab.com/?user=FatimaArshad829&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
----
+
 
 ## 🎯 Career Goals
 
@@ -120,25 +88,22 @@ My goal is to become a professional Software Engineer by developing strong techn
 
 ## 🌐 Connect With Me
 
+
+## 🌐 Connect With Me
+
 <div align="center">
 
 <a href="mailto:fatimashk829@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/fatima-arshad-07536b3b3/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/FatimaArshad829">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
----
 
-<div align="center">
 
 **Learning Continuously | Improving Every Day**
 
