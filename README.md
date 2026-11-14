@@ -24,35 +24,64 @@ My goal is to become a professional Software Engineer by developing strong techn
 ---
 
 
+
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
-|:--|:--|
-| **Programming** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white) |
-| **Machine Learning** | Python, Jupyter Notebook, ML Fundamentals |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) |
+### Programming Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
 
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Database & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,jupyter" />
+</p>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Fundamentals-8B5CF6?style=flat-square)
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
+---
 
 ## 📚 Currently Learning
 
-<div align="center">
+**🌐 Full Stack Development**
 
-| Learning Area | Topics & Focus |
-|:---|:---|
-| 🌐 Full Stack Development | React, Components, Hooks and Frontend Development |
-| ⚙️ Backend Development | Preparing for Node.js and Server-side Development |
-| 🤖 Machine Learning | Algorithms, Model Fundamentals and Applications |
-| 📈 Linear Regression | Least Squares Method and Gradient Descent |
-| 🐍 Python | Programming, NumPy and Practical Exercises |
-| 💾 Database Systems | SQL Queries and Database Management |
-| 🧠 Software Engineering | Software Design and Problem Solving |
+React, Components, Hooks and Frontend Development.
 
-</div>
+**🤖 Machine Learning**
 
----
+Machine Learning Fundamentals, Linear Regression, Least Squares and Gradient Descent.
+
+**🐍 Python & Data Science**
+
+Python Programming, NumPy and Practical Exercises.
+
+**⚙️ Backend Development**
+
+Preparing to learn Node.js and Server-side Development.
+
+**💾 Database Systems**
+
+SQL Queries and Database Management.
+
+**🧠 Software Engineering**
+
+Software Design Principles and Problem Solving.
+
+
 
 
 ## 📊 GitHub Analytics
