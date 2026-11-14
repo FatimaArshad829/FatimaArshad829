@@ -131,12 +131,24 @@ Software Design Principles and Problem Solving.
 
 
 
-**Learning Continuously | Improving Every Day**
 
-Thanks for visiting my GitHub profile!
+---
+
+<div align="center">
+
+### Thanks for Visiting My GitHub Profile!
+
+**Always Learning · Always Evolving**
+
+<a href="mailto:fatimashk829@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Connect-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=footer" width="100%" />
 
 </div>
-
 
 
 
